@@ -1,0 +1,2 @@
+# Action-Rules-based-on-Random-Forrest
+The main goal of the project is to implement Random Forest Algorithm using Hadoop. We generated action rules as well as association rules.The execution of the project was carried out on Cloudera VM and DSBA Cluster of Uncc. For testing purpose, we used Car and Mammographic dataset from UCI Machine Learning Repository. The HDFS stores the data obtained from map phase and this acts as an input to the reduce phase. There are two map reduce jobs, one for action rules and the other for association action rules calculation
